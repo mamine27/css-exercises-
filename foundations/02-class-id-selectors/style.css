@@ -1,0 +1,20 @@
+ .lone
+ {
+    font-size: 24px;
+ }
+ .odd 
+ {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ }
+ #fir{
+    color: blue;
+    font-size: 36px;
+ }
+ 
+ #sec{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+ }
