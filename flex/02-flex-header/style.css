@@ -1,0 +1,48 @@
+/* *{
+    border: 2px solid black;
+} */
+.header  {
+    display: flex;
+    font-family: monospace;
+    background: papayawhip;
+    /* gap: 205px; */
+    /* justify-content: center; */
+    flex: auto;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    font-size: 48px;
+    font-weight: 900;
+    color: tomato;
+    background: white;
+    padding: 4px 32px;
+    /* align-self: center; */
+    
+
+  }
+  
+  ul {
+    
+    display: flex;
+    flex: 1;
+    /* align-items: center; */
+    /* this removes the d   ots on the list items*/
+    list-style-type: none;  
+    gap: 3px;
+  }
+  
+  a {
+    font-size: 22px;
+    background: white;
+    padding: 8px;
+    /* this removes the line under the links */
+    text-decoration: none;
+    
+  }
+  /* ul > .right-links{
+    justify-content: right;
+  }
+  .header > left-links {
+    justify-content: left;
+  } */
